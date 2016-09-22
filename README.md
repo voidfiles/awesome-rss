@@ -8,6 +8,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Syndication Formats](#syndication-formats)
     - [Readers](#readers)
     - [Apps](#apps)
+    - [Libraries](#libraries)
 
 
 - - -
