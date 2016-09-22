@@ -1,0 +1,9 @@
+site_name: Awesome RSS
+site_url: http://awesome-rss.com
+site_description: A curated list of awesome RSS/Syndication related links
+site_author: Alex Kessinger
+repo_url: https://github.com/voidfiles/awesome-rss
+theme: flatly
+google_analytics: ['UA-510626-7', 'auto']
+pages:
+  - "Life is short, you need Feeds.": "index.md"
