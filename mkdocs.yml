@@ -4,6 +4,6 @@ site_description: A curated list of awesome RSS/Syndication related links
 site_author: Alex Kessinger
 repo_url: https://github.com/voidfiles/awesome-rss
 theme: flatly
-google_analytics: ['UA-510626-7', 'auto']
+google_analytics: ['UA-84645904-1', 'auto']
 pages:
   - "Life is short, you need Feeds.": "index.md"
