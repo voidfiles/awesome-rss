@@ -21,7 +21,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [ATOM](https://en.wikipedia.org/wiki/Atom_(standard)) - The Atom Syndication Format is an XML language used for web feeds
 * [hFeed](http://microformats.org/wiki/h-feed) - h-feed is a microformat for marking up a stream or feed of posts, like complete posts on a home page or archive pages, or summaries or other brief lists of posts.
 
-## Readers
+## Hosted Readers
 
 *Tools to read feeds.*
 
@@ -30,6 +30,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [NewsBlur](https://newsblur.com/) - NewsBlur is a personal news reader bringing people together to talk about the world
 * [Feed Wrangler](https://feedwrangler.net/welcome.html) -  a modern, sustainable RSS reader.
 * [Inoreader](http://www.inoreader.com/) - The content reader for power users who want to save time.
+
+## Self-Hosted Readers   
+* [TT-RSS](https://tt-rss.org/gitlab/fox/tt-rss/wikis/home) - Tiny Tiny RSS is an open source web-based news feed (RSS/Atom) reader and aggregator, designed to allow you to read news from any location, while feeling as close to a real desktop application as possible.
 * [Fever](http://www.feedafever.com/) - Fever takes the temperature of your slice of the web and shows you what's hot.
 * [Selfoss](https://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application
 
