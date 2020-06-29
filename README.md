@@ -42,6 +42,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Reeder](http://reederapp.com/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, NewsBlur, The Old Reader, Inoreader, Minimal Reader, BazQux Reader, Fever, Readability and Instapaper.
 * [Unread](http://supertop.co/unread/) - Rediscover the joy of reading your favorite writers with Unread. For iPhone or iPad.
+* [minirss](https://github.com/132ikl/minirss) - A minuscule RSS notifier. Simply lets you know using your notification daemon when there's a new item and lets you navigate to it using your browser.
 
 ## Libraries
 
