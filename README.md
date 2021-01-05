@@ -5,10 +5,10 @@ A curated list of awesome RSS/ATOM/Syndication links
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome RSS](#awesome-rss)
-    - [Syndication Formats](#syndication-formats)
-    - [Readers](#readers)
     - [Apps](#apps)
     - [Libraries](#libraries)
+    - [Readers](#readers)
+    - [Syndication Formats](#syndication-formats)
 
 
 - - -
@@ -17,29 +17,30 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Standards, or conventions for syndicating content*
 
-* [RSS](https://en.wikipedia.org/wiki/RSS) - Really Simple Syndication
 * [ATOM](https://en.wikipedia.org/wiki/Atom_(standard)) - The Atom Syndication Format is an XML language used for web feeds
 * [hFeed](http://microformats.org/wiki/h-feed) - h-feed is a microformat for marking up a stream or feed of posts, like complete posts on a home page or archive pages, or summaries or other brief lists of posts.
+* [RSS](https://en.wikipedia.org/wiki/RSS) - Really Simple Syndication
 
 ## Hosted Readers
 
 *Tools to read feeds.*
 
-* [Feedly](http://feedly.com/) - The content you need to accelerate your research, marketing, and sales.
-* [Feedbin](https://feedbin.com/) - A fast, simple reader that delivers a great reading experience.
-* [NewsBlur](https://newsblur.com/) - NewsBlur is a personal news reader bringing people together to talk about the world
 * [Feed Wrangler](https://feedwrangler.net/welcome.html) -  a modern, sustainable RSS reader.
+* [Feedbin](https://feedbin.com/) - A fast, simple reader that delivers a great reading experience.
+* [Feedly](http://feedly.com/) - The content you need to accelerate your research, marketing, and sales.
 * [Inoreader](http://www.inoreader.com/) - The content reader for power users who want to save time.
+* [NewsBlur](https://newsblur.com/) - NewsBlur is a personal news reader bringing people together to talk about the world
 
 ## Self-Hosted Readers   
-* [TT-RSS](https://tt-rss.org/gitlab/fox/tt-rss/wikis/home) - Tiny Tiny RSS is an open source web-based news feed (RSS/Atom) reader and aggregator, designed to allow you to read news from any location, while feeling as close to a real desktop application as possible.
 * [Fever](http://www.feedafever.com/) - Fever takes the temperature of your slice of the web and shows you what's hot.
 * [Selfoss](https://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application
+* [TT-RSS](https://tt-rss.org/gitlab/fox/tt-rss/wikis/home) - Tiny Tiny RSS is an open source web-based news feed (RSS/Atom) reader and aggregator, designed to allow you to read news from any location, while feeling as close to a real desktop application as possible.
 
 ## Apps
 
 *Apps for reading feeds*
 
+* [minirss](https://github.com/132ikl/minirss) - A minuscule RSS notifier. Simply lets you know using your notification daemon when there's a new item and lets you navigate to it using your browser.
 * [Reeder](http://reederapp.com/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, NewsBlur, The Old Reader, Inoreader, Minimal Reader, BazQux Reader, Fever, Readability and Instapaper.
 * [Unread](http://supertop.co/unread/) - Rediscover the joy of reading your favorite writers with Unread. For iPhone or iPad.
 
