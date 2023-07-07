@@ -26,6 +26,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools to read feeds.*
 
 * [Feed Wrangler](https://feedwrangler.net/welcome.html) -  a modern, sustainable RSS reader.
+* [BazQux](https://bazqux.com/) - Read news in one place. BazQux can also monitor social media pages like Facebook, Telegram and VK.
 * [Feedbin](https://feedbin.com/) - A fast, simple reader that delivers a great reading experience.
 * [Feedly](http://feedly.com/) - The content you need to accelerate your research, marketing, and sales.
 * [Inoreader](http://www.inoreader.com/) - The content reader for power users who want to save time.
