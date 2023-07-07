@@ -65,4 +65,4 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/voidfiles/awesome-rss/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **5**.
+I will not keep your pull requests on hold, especially because this is not a list of libraries but a list of softwares, so feel free to contribute with the above guide. :+1:
