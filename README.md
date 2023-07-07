@@ -36,6 +36,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Apps to host your service.*
 
 * [FeedHQ](https://github.com/feedhq/feedhq) - FeedHQ is a simple, lightweight web-based feed reader.
+* [FreshRSS](https://freshrss.org/) - FreshRSS is a feed aggregator. It is lightweight, easy to work with, powerful, and customizable.
 * [Selfoss](https://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application.
 * [TT-RSS](https://tt-rss.org/) - Tiny Tiny RSS is an open source web-based news feed reader and aggregator, designed to allow you to read news from any location, while feeling as close to a real desktop application as possible.
 
