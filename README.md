@@ -40,6 +40,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [kriss_feed](https://github.com/tontof/kriss_feed) - A simple and smart (or stupid) feed reader.
 * [Leed](https://github.com/LeedRSS/Leed) - Leed is a minimalist aggregator which offers fast consultation and non-intrusive features.
 * [Liferea](https://lzone.de/liferea/) - Liferea brings together all of the content from your favorite subscriptions into a simple interface, similar to a desktop mail/news client, with an embedded web browser.
+* [Miniflux](https://miniflux.app/) - Miniflux is a minimalist software. **It's purpose is to read feeds**. _Nothing else_.
 * [Selfoss](https://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application.
 * [TT-RSS](https://tt-rss.org/) - Tiny Tiny RSS is an open source web-based news feed reader and aggregator, designed to allow you to read news from any location, while feeling as close to a real desktop application as possible.
 
