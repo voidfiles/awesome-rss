@@ -35,7 +35,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Apps to host your service.*
 
-* [Fever](http://www.feedafever.com/) - Fever takes the temperature of your slice of the web and shows you what's hot.
 * [Selfoss](https://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application.
 * [TT-RSS](https://tt-rss.org/) - Tiny Tiny RSS is an open source web-based news feed reader and aggregator, designed to allow you to read news from any location, while feeling as close to a real desktop application as possible.
 
