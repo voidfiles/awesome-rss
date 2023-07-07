@@ -63,6 +63,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 I will not keep your pull requests on hold, especially because this is not a list of libraries but a list of softwares, so feel free to contribute with the above guide. :+1:
