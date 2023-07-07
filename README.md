@@ -49,6 +49,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Apps for reading feeds.*
 
 * [minirss](https://github.com/132ikl/minirss) - A minuscule feed notifier. Simply lets you know using your notification daemon when there's a new item and lets you navigate to it using your browser.
+* [NetNewsWire](https://netnewswire.com/) - NetNewsWire is a reader for Mac, iPhone, and iPad.
 * [Reeder](https://reederapp.com/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, NewsBlur, The Old Reader, Inoreader, BazQux Reader, FreshRSS, Instapaper and Pocket.
 * [Unread](https://www.goldenhillsoftware.com/unread/) - Unread supports syncing with Feedbin, Feedly, Fever-compatible, Inoreader, and NewsBlur accounts. It also has Local accounts. For iPhone or iPad.
 
