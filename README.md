@@ -1,6 +1,6 @@
 # Awesome RSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome RSS/ATOM/Syndication links
+A curated list of awesome ATOM/RSS/Syndication links.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
@@ -10,16 +10,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Readers](#readers)
     - [Syndication Formats](#syndication-formats)
 
-
 - - -
 
 ## Syndication Formats
 
-*Standards, or conventions for syndicating content*
+*Standards, or conventions for syndicating content.*
 
-* [ATOM](https://en.wikipedia.org/wiki/Atom_(standard)) - The Atom Syndication Format is an XML language used for web feeds
-* [hFeed](http://microformats.org/wiki/h-feed) - h-feed is a microformat for marking up a stream or feed of posts, like complete posts on a home page or archive pages, or summaries or other brief lists of posts.
-* [RSS](https://en.wikipedia.org/wiki/RSS) - Really Simple Syndication
+* [ATOM](https://en.wikipedia.org/wiki/Atom_(standard)) - The Atom Syndication Format is an XML language used for web feeds.
+* [h-feed](https://microformats.org/wiki/h-feed) - h-feed is a microformat for marking up a stream or feed of posts, like complete posts on a home page or archive pages, or summaries or other brief lists of posts.
+* [RSS](https://en.wikipedia.org/wiki/RSS) - Really Simple Syndication.
 
 ## Hosted Readers
 
@@ -28,9 +27,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Feed Wrangler](https://feedwrangler.net/welcome.html) -  a modern, sustainable RSS reader.
 * [BazQux](https://bazqux.com/) - Read news in one place. BazQux can also monitor social media pages like Facebook, Telegram and VK.
 * [Feedbin](https://feedbin.com/) - A fast, simple reader that delivers a great reading experience.
-* [Feedly](http://feedly.com/) - The content you need to accelerate your research, marketing, and sales.
-* [Inoreader](http://www.inoreader.com/) - The content reader for power users who want to save time.
-* [NewsBlur](https://newsblur.com/) - NewsBlur is a personal news reader bringing people together to talk about the world
+* [Feedly](https://feedly.com/) - The content you need to accelerate your research, marketing, and sales.
+* [Inoreader](https://www.inoreader.com/) - The content reader for power users who want to save time.
+* [NewsBlur](https://newsblur.com/) - NewsBlur is a personal news reader bringing people together to talk about the world.
 
 ## Self-Hosted Readers   
 * [Fever](http://www.feedafever.com/) - Fever takes the temperature of your slice of the web and shows you what's hot.
@@ -39,7 +38,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Apps
 
-*Apps for reading feeds*
+*Apps for reading feeds.*
 
 * [minirss](https://github.com/132ikl/minirss) - A minuscule RSS notifier. Simply lets you know using your notification daemon when there's a new item and lets you navigate to it using your browser.
 * [Reeder](http://reederapp.com/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, NewsBlur, The Old Reader, Inoreader, Minimal Reader, BazQux Reader, Fever, Readability and Instapaper.
