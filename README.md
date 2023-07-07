@@ -31,10 +31,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [NewsBlur](https://newsblur.com/) - NewsBlur is a personal news reader bringing people together to talk about the world.
 * [The Old Reader](https://theoldreader.com/) - All your news frmo one place. Works on mobile, tablet, or desktop, giving you all the content you want, when you want it.
 
-## Self-Hosted Readers   
+## Self-Hosted Readers
+
+*Apps to host your service.*
+
 * [Fever](http://www.feedafever.com/) - Fever takes the temperature of your slice of the web and shows you what's hot.
-* [Selfoss](https://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application
-* [TT-RSS](https://tt-rss.org/gitlab/fox/tt-rss/wikis/home) - Tiny Tiny RSS is an open source web-based news feed (RSS/Atom) reader and aggregator, designed to allow you to read news from any location, while feeling as close to a real desktop application as possible.
+* [Selfoss](https://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application.
+* [TT-RSS](https://tt-rss.org/) - Tiny Tiny RSS is an open source web-based news feed reader and aggregator, designed to allow you to read news from any location, while feeling as close to a real desktop application as possible.
 
 ## Apps
 
@@ -46,11 +49,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Libraries
 
-*Various libraries for parsing, and producing feeds*
+*Various libraries for parsing, and producing feeds.*
 
-* [feedparser](https://pypi.python.org/pypi/feedparser) - (Python) Universal feed parser, handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds
-* [simplepie](http://simplepie.org/) - (PHP) SimplePie is a very fast and easy-to-use feed parser, written in PHP, that puts the 'simple' back into 'really simple syndication
-
+* [feedparser](https://pypi.org/project/feedparser/) - (Python) Universal feed parser, handles RSS 0.9x and above, CDF, Atom 0.3 and above feeds.
+* [simplepie](http://simplepie.org/) - (PHP) SimplePie is a very fast and easy-to-use feed parser, written in PHP, that puts the 'simple' back into 'really simple syndication.
 
 # Contributing
 
