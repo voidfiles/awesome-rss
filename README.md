@@ -29,6 +29,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Feedly](https://feedly.com/) - The content you need to accelerate your research, marketing, and sales.
 * [Inoreader](https://www.inoreader.com/) - The content reader for power users who want to save time.
 * [NewsBlur](https://newsblur.com/) - NewsBlur is a personal news reader bringing people together to talk about the world.
+* [The Old Reader](https://theoldreader.com/) - All your news frmo one place. Works on mobile, tablet, or desktop, giving you all the content you want, when you want it.
 
 ## Self-Hosted Readers   
 * [Fever](http://www.feedafever.com/) - Fever takes the temperature of your slice of the web and shows you what's hot.
