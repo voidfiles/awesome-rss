@@ -29,7 +29,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Feedbin](https://feedbin.com/) - A fast, simple reader that delivers a great reading experience.
 * [Feedly](http://feedly.com/) - The content you need to accelerate your research, marketing, and sales.
 * [Inoreader](http://www.inoreader.com/) - The content reader for power users who want to save time.
-* [NewsBlur](https://newsblur.com/) - NewsBlur is a personal news reader bringing people together to talk about the world
+* [NewsBlur](https://newsblur.com/) - NewsBlur is a personal news reader bringing people together to talk about the world.
+* [Artemis](https://artemis.jamesg.blog/) - Artemis is a calm web reader that updates once per day.
 
 ## Self-Hosted Readers   
 * [Fever](http://www.feedafever.com/) - Fever takes the temperature of your slice of the web and shows you what's hot.
