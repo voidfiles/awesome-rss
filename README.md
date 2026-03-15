@@ -51,6 +51,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [feedparser](https://pypi.python.org/pypi/feedparser) - (Python) Universal feed parser, handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds
 * [simplepie](http://simplepie.org/) - (PHP) SimplePie is a very fast and easy-to-use feed parser, written in PHP, that puts the 'simple' back into 'really simple syndication
 
+## Feed Generators
+
+*Tools to generate RSS feeds for sites that don't have one*
+
+* [ai-rss-feeds](https://github.com/leontloveless/ai-rss-feeds) - AI-powered RSS feed generator. LLM analyzes HTML once to create parser configs, then feeds update hourly with zero API cost. Supports CSS, JSON, Changelog, and GitHub Releases modes. (TypeScript/Bun)
+* [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - Generate RSS/ATOM feeds for websites which don't have one. (PHP)
+* [RSSHub](https://github.com/DIYgod/RSSHub) - Easy to use, extensible RSS feed generator capable of generating feeds from social media, forums, and more. (Node.js)
+
 
 # Contributing
 
