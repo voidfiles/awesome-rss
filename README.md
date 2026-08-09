@@ -8,6 +8,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Apps](#apps)
     - [Libraries](#libraries)
     - [Readers](#readers)
+    - [Services](#services)
     - [Syndication Formats](#syndication-formats)
 
 
@@ -50,6 +51,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [feedparser](https://pypi.python.org/pypi/feedparser) - (Python) Universal feed parser, handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds
 * [simplepie](http://simplepie.org/) - (PHP) SimplePie is a very fast and easy-to-use feed parser, written in PHP, that puts the 'simple' back into 'really simple syndication
+
+## Services
+
+*Hosted tools for creating, transforming, and delivering feeds*
+
+* [RSS Emit](https://rssemit.com/) - Turns pages, source lists, or topic prompts into Atom or JSON Feed, and delivers new items to email, chat, or HTTP endpoints.
 
 
 # Contributing
