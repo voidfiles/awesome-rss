@@ -1,16 +1,14 @@
-# Awesome RSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome RSS ![Awesome badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 A curated list of awesome ATOM/RSS/Syndication links.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
-- [Awesome RSS](#awesome-rss)
-    - [Apps](#apps)
-    - [Libraries](#libraries)
-    - [Readers](#readers)
-    - [Syndication Formats](#syndication-formats)
-
-- - -
+- [Syndication Formats](#syndication-formats)
+- [Apps](#apps)
+- [Libraries](#libraries)
+- [Readers](#readers)
+- [Self-Hosted Readers](#self-hosted-readers)
 
 ## Syndication Formats
 
@@ -19,6 +17,24 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [ATOM](https://en.wikipedia.org/wiki/Atom_(standard)) - The Atom Syndication Format is an XML language used for web feeds.
 * [h-feed](https://microformats.org/wiki/h-feed) - h-feed is a microformat for marking up a stream or feed of posts, like complete posts on a home page or archive pages, or summaries or other brief lists of posts.
 * [RSS](https://en.wikipedia.org/wiki/RSS) - Really Simple Syndication.
+
+## Apps
+
+*Apps for reading feeds.*
+
+* [minirss](https://github.com/132ikl/minirss) - A minuscule feed notifier. Simply lets you know using your notification daemon when there's a new item and lets you navigate to it using your browser.
+* [NetNewsWire](https://netnewswire.com/) - NetNewsWire is a reader for Mac, iPhone, and iPad.
+* [Newsboat](https://newsboat.org/) - Newsboat is a feed reader for the text console. It’s an actively maintained fork of Newsbeuter.
+* [Reeder](https://reederapp.com/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, NewsBlur, The Old Reader, Inoreader, BazQux Reader, FreshRSS, Instapaper and Pocket.
+* [Unread](https://www.goldenhillsoftware.com/unread/) - Unread supports syncing with Feedbin, Feedly, Fever-compatible, Inoreader, and NewsBlur accounts. It also has Local accounts. For iPhone or iPad.
+
+## Libraries
+
+*Various libraries for parsing, and producing feeds.*
+
+* [feedparser](https://pypi.org/project/feedparser/) - (Python) Universal feed parser, handles RSS 0.9x and above, CDF, Atom 0.3 and above feeds.
+* [simplepie](http://simplepie.org/) - (PHP) SimplePie is a very fast and easy-to-use feed parser, written in PHP, that puts the 'simple' back into 'really simple syndication.
+* [gofeed](https://github.com/mmcdole/gofeed) - (Go) Gofeed a powerful and flexible library designed for parsing RSS, Atom, and JSON feeds across various formats and versions.
 
 ## Hosted Readers
 
@@ -44,24 +60,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Miniflux](https://miniflux.app/) - Miniflux is a minimalist software. **It's purpose is to read feeds**. _Nothing else_.
 * [Selfoss](https://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application.
 * [TT-RSS](https://tt-rss.org/) - Tiny Tiny RSS is an open source web-based news feed reader and aggregator, designed to allow you to read news from any location, while feeling as close to a real desktop application as possible.
-
-## Apps
-
-*Apps for reading feeds.*
-
-* [minirss](https://github.com/132ikl/minirss) - A minuscule feed notifier. Simply lets you know using your notification daemon when there's a new item and lets you navigate to it using your browser.
-* [NetNewsWire](https://netnewswire.com/) - NetNewsWire is a reader for Mac, iPhone, and iPad.
-* [Newsboat](https://newsboat.org/) - Newsboat is a feed reader for the text console. It’s an actively maintained fork of Newsbeuter.
-* [Reeder](https://reederapp.com/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, NewsBlur, The Old Reader, Inoreader, BazQux Reader, FreshRSS, Instapaper and Pocket.
-* [Unread](https://www.goldenhillsoftware.com/unread/) - Unread supports syncing with Feedbin, Feedly, Fever-compatible, Inoreader, and NewsBlur accounts. It also has Local accounts. For iPhone or iPad.
-
-## Libraries
-
-*Various libraries for parsing, and producing feeds.*
-
-* [feedparser](https://pypi.org/project/feedparser/) - (Python) Universal feed parser, handles RSS 0.9x and above, CDF, Atom 0.3 and above feeds.
-* [simplepie](http://simplepie.org/) - (PHP) SimplePie is a very fast and easy-to-use feed parser, written in PHP, that puts the 'simple' back into 'really simple syndication.
-* [gofeed](https://github.com/mmcdole/gofeed) - (Go) Gofeed a powerful and flexible library designed for parsing RSS, Atom, and JSON feeds across various formats and versions.
 
 # Contributing
 
